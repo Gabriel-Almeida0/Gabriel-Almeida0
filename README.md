@@ -1,5 +1,5 @@
 ## Oi eu sou Gabriel Almeida
-
+Desenvolvedor de software com experiência em diversas linguagens e frameworks. Focado em criar soluções inovadoras, escaláveis e eficientes, sempre buscando melhorar e aprender novas tecnologias.
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
